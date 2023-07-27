@@ -2,7 +2,7 @@
 
 This is a Pokémon-themed application developed using the Flutter framework. It allows users to explore information about various Pokémon species, their abilities, moves, and other details. The app provides an interactive and visually appealing interface to engage users in the world of Pokémon.
 
-![Pokémon App Flutter](https://github.com/sidesshmore/Pokemon-App-Flutter/blob/main/screenshots/pokemon_app_screenshot.png)
+https://github.com/sidesshmore/Pokemon-App-Flutter/assets/109675078/8f29615f-e9b7-42a9-b5c0-94b85d7ab4a6
 
 ## Features
 
@@ -11,13 +11,6 @@ This is a Pokémon-themed application developed using the Flutter framework. It 
 - **Detailed Pokémon Profile**: Selecting a Pokémon from the list displays its complete profile, including its abilities, moves, and an image of the Pokémon.
 
 - **User Interface**: The app features an intuitive and visually appealing user interface designed with Flutter's Material Design principles. It provides smooth animations and transitions for seamless user experience.
-
-## Screenshots
-
-
-
-https://github.com/sidesshmore/Pokemon-App-Flutter/assets/109675078/8f29615f-e9b7-42a9-b5c0-94b85d7ab4a6
-
 
 
 ## Installation
